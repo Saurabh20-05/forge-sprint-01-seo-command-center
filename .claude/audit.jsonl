@@ -92,3 +92,8 @@
 {"ts":"2026-06-06T08:56:11.486Z","hook":"PostToolUse","note":"jq not installed; install jq for full process capture"}
 {"ts":"2026-06-06T08:59:12.119Z","hook":"SubagentStop","note":"jq not installed; install jq for full process capture"}
 {"ts":"2026-06-06T08:59:12.138Z","hook":"SessionStart","note":"jq not installed; install jq for full process capture"}
+{"ts":"2026-06-06T09:05:43.011Z","hook":"SessionStart","note":"jq not installed; install jq for full process capture"}
+{"ts":"2026-06-06T09:07:00.880Z","hook":"UserPromptSubmit","note":"jq not installed; install jq for full process capture"}
+{"ts":"2026-06-06T10:08:42.766Z","hook":"UserPromptSubmit","note":"jq not installed; install jq for full process capture"}
+{"ts":"2026-06-06T10:09:11.220Z","hook":"Stop","note":"jq not installed; install jq for full process capture"}
+{"ts":"2026-06-06T10:12:37.356Z","hook":"SubagentStop","note":"jq not installed; install jq for full process capture"}
