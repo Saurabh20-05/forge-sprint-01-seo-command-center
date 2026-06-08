@@ -147,6 +147,11 @@ seo-command-center/
 │   └── seo-audit/
 │       └── SKILL.md
 │
+├── CLAUDE.md
+├── PROMPTS.md
+├── DECISIONS.md
+├── agent-log.md
+│
 ├── run.py
 └── README.md
 ```
